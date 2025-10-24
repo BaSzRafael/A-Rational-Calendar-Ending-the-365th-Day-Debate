@@ -1,21 +1,47 @@
-# A Rational Calendar: Ending the 365th Day Debate
+## **Racjonalny kalendarz: zakończenie debaty o 365. dniu**
 
-## Abstract
-This project presents a rational approach to calendar reform that eliminates the need for leap weeks. Instead of forcing every year to start on the same weekday, the system accepts the natural weekday shift between years — preserving the solar cycle while simplifying all date-related operations.
+### **Abstrakcyjny**
+Projekt ten prezentuje racjonalne podejście do reformy kalendarza, które eliminuje potrzebę tygodni przestępnych.  
+Zamiast wymuszać, aby każdy rok zaczynał się w ten sam dzień tygodnia, system akceptuje naturalne przesunięcie dnia tygodnia między latami — zachowując cykl siedmiodniowy i jednocześnie upraszczając wszystkie operacje związane z datami.
 
-## Background
-Since the Gregorian reform, various proposals have sought to make the calendar more regular and predictable. Auguste Comte’s *Positivist Calendar* (1849) introduced 13 equal months of 28 days, while later, the International Fixed Calendar League (IFCL) — supported by Eastman Company — promoted a similar idea, maintaining this campaign until 1989. Despite its internal logic, the IFCL concept met strong religious opposition due to its “blank” days that interrupted the weekly cycle.
+---
 
-## The Problem of Leap Weeks
-Other reform attempts introduced so-called *leap weeks* to maintain synchronization with the solar year. However, this method complicates the calendar’s cyclical nature and leads to discrepancies of several days between astronomical and civil years — unacceptable from an astronomical point of view.
+### **Tło**
+Od czasu reformy gregoriańskiej pojawiły się różne propozycje mające na celu uczynienie kalendarza bardziej regularnym i przewidywalnym.  
+Auguste Comte już w 1849 roku zaproponował tzw. *Kalendarz pozytywistyczny*, w którym rok miał 13 równych miesięcy po 28 dni każdy, z dodatkowym dniem poza tygodniem.  
+W XX wieku Międzynarodowa Liga Stałego Kalendarza (IFCL) – wspierana również przez Eastman Company – promowała podobny pomysł, kontynuując kampanię aż do 1989 roku.  
+Pomimo wewnętrznej logiki, koncepcja IFCL spotkała się z silnym sprzeciwem religijnym ze względu na „puste” dni, które przerywały cykl tygodniowy.  
 
-## Proposed Solution
-Instead of eliminating the 365th day, this model embraces it. Each subsequent year begins on the next weekday: first Monday, then Tuesday, then Wednesday — and when a leap year arrives, the sequence naturally jumps ahead. This solution respects both astronomical accuracy and social continuity, without additional leap weeks or blank days.
+---
 
-## Advantages
-The system offers practical benefits: simplified accounting, uniform month lengths divisible by seven, and easier prediction of recurring biological or economic cycles — including the regularity of women’s menstrual cycles, often synchronized with lunar and solar rhythms.
+### **Sprzeciw**
+Opór ze strony środowisk religijnych miał charakter fundamentalny — dni wyłączone z tygodnia uderzały w rytm świąt i nabożeństw, a także w przyjętą strukturę kalendarza liturgicznego.  
+Z tego powodu, mimo szerokiego poparcia w kręgach naukowych i ekonomicznych, projekt nie został wdrożony.  
+
+---
+
+### **Problem tygodni przestępnych**
+Inne próby reformy wprowadzały tzw. tygodnie przestępne, **aby pogodzić środowiska religijne** i uniknąć wprowadzenia „dnia zerowego” — dnia poza tygodniem.  
+Jednak zamiast zwiększać precyzję kalendarza, rozwiązanie to prowadziło do **desynchronizacji** z rokiem słonecznym.  
+W efekcie różnica między rokiem kalendarzowym a astronomicznym mogła dochodzić do **czterech–sześciu dni**, co dla astronomów stanowiło poważne uchybienie, zważywszy że w ich pomiarach czasem liczy się milisekunda.  
+
+---
+
+### **Proponowane rozwiązanie**
+Zamiast eliminować 365. dzień, proponowany model go **akceptuje**.  
+Każdy kolejny rok zaczyna się od następnego dnia roboczego: najpierw w poniedziałek, potem we wtorek, następnie w środę — a kiedy nadchodzi rok przestępny, sekwencja naturalnie przeskakuje.  
+To rozwiązanie zachowuje astronomiczną dokładność, ciągłość społeczną i eliminuje potrzebę dodatkowych tygodni przestępnych czy „pustych” dni.  
+
+---
+
+### **Zalety**
+System ten oferuje szereg praktycznych korzyści:  
+- uproszczoną księgowość i planowanie,  
+- równą długość miesięcy podzielnych przez siedem,  
+- większą przewidywalność cykli ekonomicznych — na przykład rozliczeń cyklicznych,  
+- oraz lepszą zgodność z naturalnymi rytmami biologicznymi.  
 
 ---
 
 © @BaSzRafael, 2025  
-*Concept developed with the assistance of GPT-5 (OpenAI).*
+Koncepcja opracowana przy wsparciu GPT-5 (OpenAI).
