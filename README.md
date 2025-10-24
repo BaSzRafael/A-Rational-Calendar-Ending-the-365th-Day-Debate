@@ -1,47 +1,47 @@
-## **Racjonalny kalendarz: zakończenie debaty o 365. dniu**
+## **A Rational Calendar: Ending the 365th Day Debate**
 
-### **Abstrakcyjny**
-Projekt ten prezentuje racjonalne podejście do reformy kalendarza, które eliminuje potrzebę tygodni przestępnych.  
-Zamiast wymuszać, aby każdy rok zaczynał się w ten sam dzień tygodnia, system akceptuje naturalne przesunięcie dnia tygodnia między latami — zachowując cykl siedmiodniowy i jednocześnie upraszczając wszystkie operacje związane z datami.
-
----
-
-### **Tło**
-Od czasu reformy gregoriańskiej pojawiły się różne propozycje mające na celu uczynienie kalendarza bardziej regularnym i przewidywalnym.  
-Auguste Comte już w 1849 roku zaproponował tzw. *Kalendarz pozytywistyczny*, w którym rok miał 13 równych miesięcy po 28 dni każdy, z dodatkowym dniem poza tygodniem.  
-W XX wieku Międzynarodowa Liga Stałego Kalendarza (IFCL) – wspierana również przez Eastman Company – promowała podobny pomysł, kontynuując kampanię aż do 1989 roku.  
-Pomimo wewnętrznej logiki, koncepcja IFCL spotkała się z silnym sprzeciwem religijnym ze względu na „puste” dni, które przerywały cykl tygodniowy.  
+### **Abstract**
+This project presents a rational approach to calendar reform that eliminates the need for leap weeks.  
+Instead of forcing each year to start on the same weekday, the system accepts the natural shift of weekdays between years — preserving the seven-day cycle and simplifying all date-related operations.
 
 ---
 
-### **Sprzeciw**
-Opór ze strony środowisk religijnych miał charakter fundamentalny — dni wyłączone z tygodnia uderzały w rytm świąt i nabożeństw, a także w przyjętą strukturę kalendarza liturgicznego.  
-Z tego powodu, mimo szerokiego poparcia w kręgach naukowych i ekonomicznych, projekt nie został wdrożony.  
+### **Background**
+Since the Gregorian reform, many proposals have aimed to make the calendar more regular and predictable.  
+As early as 1849, Auguste Comte proposed the *Positivist Calendar*, consisting of 13 equal months of 28 days each, plus one extra day outside the week.  
+In the 20th century, the International Fixed Calendar League (IFCL) — also supported by the Eastman Company — promoted a similar idea, continuing its campaign until 1989.  
+Despite its internal logic, the IFCL concept faced strong religious opposition due to the “blank” days that disrupted the weekly cycle.
 
 ---
 
-### **Problem tygodni przestępnych**
-Inne próby reformy wprowadzały tzw. tygodnie przestępne, **aby pogodzić środowiska religijne** i uniknąć wprowadzenia „dnia zerowego” — dnia poza tygodniem.  
-Jednak zamiast zwiększać precyzję kalendarza, rozwiązanie to prowadziło do **desynchronizacji** z rokiem słonecznym.  
-W efekcie różnica między rokiem kalendarzowym a astronomicznym mogła dochodzić do **czterech–sześciu dni**, co dla astronomów stanowiło poważne uchybienie, zważywszy że w ich pomiarach czasem liczy się milisekunda.  
+### **Opposition**
+Resistance from religious institutions was fundamental — days excluded from the week interfered with the rhythm of worship and the structure of liturgical calendars.  
+For this reason, despite wide support among scientific and economic circles, the project was never implemented.
 
 ---
 
-### **Proponowane rozwiązanie**
-Zamiast eliminować 365. dzień, proponowany model go **akceptuje**.  
-Każdy kolejny rok zaczyna się od następnego dnia roboczego: najpierw w poniedziałek, potem we wtorek, następnie w środę — a kiedy nadchodzi rok przestępny, sekwencja naturalnie przeskakuje.  
-To rozwiązanie zachowuje astronomiczną dokładność, ciągłość społeczną i eliminuje potrzebę dodatkowych tygodni przestępnych czy „pustych” dni.  
+### **The Problem of Leap Weeks**
+Other reform attempts introduced so-called leap weeks **to appease religious groups** and avoid introducing a “zero day” (a day outside the week).  
+However, this led to **desynchronization** with the solar year.  
+As a result, the difference between the calendar and astronomical year could reach **four to six days**, which for astronomers is a serious error — since their measurements may depend on milliseconds.
 
 ---
 
-### **Zalety**
-System ten oferuje szereg praktycznych korzyści:  
-- uproszczoną księgowość i planowanie,  
-- równą długość miesięcy podzielnych przez siedem,  
-- większą przewidywalność cykli ekonomicznych — na przykład rozliczeń cyklicznych,  
-- oraz lepszą zgodność z naturalnymi rytmami biologicznymi.  
+### **Proposed Solution**
+Instead of eliminating the 365th day, the proposed model **accepts** it.  
+Each new year begins on the next weekday: first Monday, then Tuesday, then Wednesday — and when a leap year occurs, the sequence naturally shifts.  
+This preserves astronomical accuracy, social continuity, and removes the need for extra leap weeks or “blank” days.
+
+---
+
+### **Advantages**
+This system provides several practical benefits:  
+- simplified accounting and scheduling,  
+- equal month lengths divisible by seven,  
+- greater predictability of economic cycles — for example, cyclical settlements,  
+- greater predictability of biological rhythms — including women’s menstrual cycles.
 
 ---
 
 © @BaSzRafael, 2025  
-Koncepcja opracowana przy wsparciu GPT-5 (OpenAI).
+Concept developed with the support of GPT-5 (OpenAI).
