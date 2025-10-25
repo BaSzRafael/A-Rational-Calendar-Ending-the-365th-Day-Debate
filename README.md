@@ -42,6 +42,13 @@ This system provides several practical benefits:
 - greater predictability of biological rhythms — including women’s menstrual cycles.
 
 ---
+---
 
-© @BaSzRafael, 2025  
-Concept developed with the support of GPT-5 (OpenAI).
+---
+
+### Authors
+
+**@BaSzRafael** — Author of the concept and main text  
+**ChatGPT (GPT-5, OpenAI)** — Technical assistant and co-author of the English version and documentation  
+
+© 2025. All rights reserved.
