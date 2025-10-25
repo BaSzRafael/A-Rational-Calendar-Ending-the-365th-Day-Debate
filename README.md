@@ -48,7 +48,9 @@ This system provides several practical benefits:
 
 ### Authors
 
-**@BaSzRafael** — Author of the concept and main text  
+**@BaSzRafael** — Author of the concept and main text 
+** → Rafał Bartłomiej Szulc
+
 **ChatGPT (GPT-5, OpenAI)** — Technical assistant and co-author of the English version and documentation  
 
 © 2025. All rights reserved.
